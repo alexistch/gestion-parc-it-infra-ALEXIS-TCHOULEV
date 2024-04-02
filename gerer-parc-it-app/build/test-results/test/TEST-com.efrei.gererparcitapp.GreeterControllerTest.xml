@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.efrei.gererparcitapp.GreeterControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-02T16:05:31" hostname="LAPTOP-CFTP4CR9" time="0.146">
+  <properties/>
+  <testcase name="shouldReturnDefaultMessage()" classname="com.efrei.gererparcitapp.GreeterControllerTest" time="0.146"/>
+  <system-out><![CDATA[2024-04-02T18:05:30.714+02:00  INFO 3944 --- [gerer-parc-it-app] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.efrei.gererparcitapp.GreeterControllerTest]: GreeterControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-04-02T18:05:30.722+02:00  INFO 3944 --- [gerer-parc-it-app] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.efrei.gererparcitapp.GererParcItAppApplication for test class com.efrei.gererparcitapp.GreeterControllerTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.4)
+
+2024-04-02T18:05:30.776+02:00  INFO 3944 --- [gerer-parc-it-app] [    Test worker] c.e.g.GreeterControllerTest              : Starting GreeterControllerTest using Java 17.0.10 with PID 3944 (started by Utilisateur in C:\Users\Utilisateur\gestion-parc-it-infra-ALEXIS-TCHOULEV\gerer-parc-it-app)
+2024-04-02T18:05:30.777+02:00  INFO 3944 --- [gerer-parc-it-app] [    Test worker] c.e.g.GreeterControllerTest              : No active profile set, falling back to 1 default profile: "default"
+2024-04-02T18:05:31.197+02:00  INFO 3944 --- [gerer-parc-it-app] [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-04-02T18:05:31.197+02:00  INFO 3944 --- [gerer-parc-it-app] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-04-02T18:05:31.197+02:00  INFO 3944 --- [gerer-parc-it-app] [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 0 ms
+2024-04-02T18:05:31.214+02:00  INFO 3944 --- [gerer-parc-it-app] [    Test worker] c.e.g.GreeterControllerTest              : Started GreeterControllerTest in 0.484 seconds (process running for 6.001)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
